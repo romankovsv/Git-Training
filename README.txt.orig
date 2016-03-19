@@ -1,0 +1,10 @@
+Hello, Git
+akdl;jnlksajn
+Make some change 
+Sharing remotely is fun and easy
+<<<<<<< HEAD
+Feature1
+=======
+Feature2
+Feature2 changes
+>>>>>>> feature2
