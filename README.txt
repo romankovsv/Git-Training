@@ -1,4 +1,4 @@
 Hello, Git
 akdl;jnlksajn
 Make some change 
-Added some text
+Sharing remotely is fun and easy
